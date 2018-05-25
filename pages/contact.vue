@@ -11,5 +11,6 @@ div{
     align-items: center;
     justify-content: center;
     height: 50vh;
+    background-color: cadetblue;
 }
 </style>
